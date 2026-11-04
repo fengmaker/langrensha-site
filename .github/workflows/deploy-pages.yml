@@ -52,6 +52,7 @@ jobs:
         with:
           path: site
           retention-days: 1
+          include-hidden-files: true
       - name: Deploy to Pages
         id: deployment
         uses: actions/deploy-pages@v5.0.1
