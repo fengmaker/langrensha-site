@@ -1,0 +1,5 @@
+:HL["/langrensha-site/_next/static/chunks/0s3-cq5sojfyz.css","style"]
+:HL["/langrensha-site/_next/static/chunks/16qfp72pyl479.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"leaderboard","h":96,"c":"$Q2"}]]
+0:{"b":"EOgZiIt7EkyIzdl78m9z-","t":{"t":{"s":"","h":84,"c":"$Q1"}}}

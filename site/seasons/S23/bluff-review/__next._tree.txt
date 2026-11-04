@@ -1,0 +1,6 @@
+:HL["/langrensha-site/_next/static/chunks/0s3-cq5sojfyz.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":"bluff-review","h":96,"c":"$Q4"}]]
+2:[["children",{"s":{"n":"id","t":"d","k":"S23","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"seasons","h":96,"c":"$Q2"}]]
+0:{"b":"EOgZiIt7EkyIzdl78m9z-","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
