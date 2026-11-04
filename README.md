@@ -4,9 +4,11 @@
 
 - 源码和本地数据维护：[fengmaker/LangRenSha](https://github.com/fengmaker/LangRenSha)
 - 站点地址：<https://fengmaker.github.io/langrensha-site/>
-- `site/` 只放本次验收通过的公开静态成品。
-- `site/data/manifest.json` 的 `build_id`、`snapshot_id` 标识本次发布。
+- `site/` 只保存本次验收通过的完整公开站点。
+- `site/data/manifest.json` 的 `build_id`、`snapshot_id` 标识当前版本。
 
-推送成品后，在 Settings → Pages 将发布源设为 GitHub Actions；进入 Actions → Deploy static site to Pages → Run workflow → main，手动上线。源码仓库的推送不触发本站部署。
+日常更新在源码工作目录运行 `python website/sync_pages.py`。命令从本地已发布 API 增量导出，复用未变响应与图片，完成网页构建和验收后同步此仓库并推送 `main`。本仓库的 `site/` 或 Pages 工作流变更会自动部署；源码仓库推送只触发源码验收。
 
-回退时，在 main 撤销有问题的独立成品提交（`git revert <提交SHA>`），推送后手动运行相同工作流。该操作只回退网页，不改变本地正式数据或数据库发布。
+Pages 发布源设为 GitHub Actions。Actions 中保留 **Deploy static site to Pages → Run workflow → main** 手动入口，用于重新部署已有成品。
+
+回退时，在 `main` 撤销有问题的独立成品提交（`git revert <提交SHA>`）并推送，会自动部署回退结果。该操作只回退网页，不改变本地正式数据或数据库发布。
