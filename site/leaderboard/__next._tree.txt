@@ -1,5 +1,5 @@
-:HL["/langrensha-site/_next/static/chunks/0s3-cq5sojfyz.css","style"]
-:HL["/langrensha-site/_next/static/chunks/2mcobw1ynh55l.css","style"]
+:HL["/langrensha-site/_next/static/chunks/44-x1ledqqt0x.css","style"]
+:HL["/langrensha-site/_next/static/chunks/2bf2blo3_8stf.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"leaderboard","h":96,"c":"$Q2"}]]
-0:{"b":"KoJscS4Kusi_j8gIhROf1","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"pzy4GGI7TzAap0pd0EsgM","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
