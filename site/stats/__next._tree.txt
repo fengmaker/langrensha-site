@@ -2,4 +2,4 @@
 :HL["/langrensha-site/_next/static/chunks/3t10p_umckpmf.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"stats","h":96,"c":"$Q2"}]]
-0:{"b":"hSynOaqFbENQnTMYxfhlZ","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"P71S5WDl6vPmq1CQwsXZo","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
