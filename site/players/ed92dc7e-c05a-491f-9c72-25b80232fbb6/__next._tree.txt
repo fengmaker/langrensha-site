@@ -1,6 +1,6 @@
-:HL["/langrensha-site/_next/static/chunks/23p44luy6g6vh.css","style"]
+:HL["/langrensha-site/_next/static/chunks/06dh3dx4-_qyu.css","style"]
 :HL["/langrensha-site/_next/static/chunks/0ok53w06nkfpr.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"id","t":"d","k":"__static__","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":"players","h":96,"c":"$Q2"}]]
-0:{"b":"mp9bnAHbb9sW26sWyhvsA","t":{"t":{"s":"","h":84,"c":"$Q1"}}}
+0:{"b":"haGd3wa9ut4wFrhHhiclF","t":{"t":{"s":"","h":84,"c":"$Q1"}}}

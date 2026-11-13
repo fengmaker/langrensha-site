@@ -1,4 +1,4 @@
-1:"/langrensha-site/_next/static/chunks/13q-by39wn6w9.js"
+1:"/langrensha-site/_next/static/chunks/3q-3zzh76n8qz.js"
 2:"LoadingBoundaryProvider"
 3:I[39756,["$1"],"$2"]
 4:"$Sreact.fragment"
@@ -7,28 +7,29 @@
 7:I[37457,["$1"],"default"]
 8:"/langrensha-site/_next/static/chunks/08kequ42ip-ux.js"
 9:I[4808,["$1","$8"],"ArchiveLink"]
-10:"$Sreact.suspense"
-11:"StaticGamesBrowser"
-12:I[46186,["$1","$8"],"$11"]
-13:I[97367,["$1"],"OutletBoundary"]
-16:"ViewportBoundary"
-17:I[97367,["$1"],"$16"]
-18:"MetadataBoundary"
-19:I[97367,["$1"],"$18"]
-:HL["/langrensha-site/_next/static/chunks/23p44luy6g6vh.css","style"]
+a:I[27115,["$1"],"SiteTraffic"]
+11:"$Sreact.suspense"
+12:"StaticGamesBrowser"
+13:I[46186,["$1","$8"],"$12"]
+14:I[97367,["$1"],"OutletBoundary"]
+17:"ViewportBoundary"
+18:I[97367,["$1"],"$17"]
+19:"MetadataBoundary"
+1a:I[97367,["$1"],"$19"]
+:HL["/langrensha-site/_next/static/chunks/06dh3dx4-_qyu.css","style"]
 :HL["/langrensha-site/_next/static/chunks/0yksxl3omw-49.css","style"]
-b:X
-e:X
-e:C
-f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","div",null,{"className":"page-wrap uxrOpG_page","children":[["$","header",null,{"className":"uxrOpG_intro","children":[["$","h1",null,{"children":"对局档案"}],["$","p",null,{"children":"按日期、赛季、阶段、版型或选手，找到想看的对局。"}]]}],["$","$10",null,{"fallback":["$","p",null,{"children":"正在载入筛选条件…"}],"children":["$","$L12",null,{}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/langrensha-site/_next/static/chunks/0yksxl3omw-49.css","precedence":"next"}],["$","script","script-0",{"src":"/langrensha-site/_next/static/chunks/08kequ42ip-ux.js","async":true}]],["$","$L13",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":"$@15","v":null,"s":"$b"}}]]
-c:[["children",{"s":"games","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@d","v":"$e","s":"$b"},"c":"$Qf"}]]
-0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"page-wrap","children":["$","div",null,{"className":"route-loading","role":"status","children":"正在加载页面…"}]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/langrensha-site/_next/static/chunks/23p44luy6g6vh.css","precedence":"next"}],["$","script","script-0",{"src":"/langrensha-site/_next/static/chunks/13q-by39wn6w9.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳到主要内容"}],["$","$L5",null,{}],["$","main",null,{"id":"main-content","className":"site-main","tabIndex":-1,"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"page-wrap","children":["$","section",null,{"className":"not-found-card","children":[["$","span",null,{"className":"not-found-code","children":"404"}],["$","h1",null,{"children":"没有找到这条档案"}],["$","p",null,{"children":"该对局或选手记录可能尚未发布，或档案链接已经变更。"}],["$","div",null,{"children":[["$","$L9",null,{"className":"button button-primary","href":"/games","children":["浏览对局档案 ",["$","span",null,{"children":"→"}]]}],["$","$L9",null,{"className":"button button-outline","href":"/players","children":["搜索选手 ",["$","span",null,{"children":"→"}]]}]]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"footer-inner","children":["$","nav",null,{"aria-label":"页脚导航","children":[["$","$L9",null,{"href":"/stats","children":"数据说明"}],["$","$L9",null,{"href":"/games","children":"对局档案"}],["$","$L9",null,{"href":"/players","children":"选手索引"}]]}]}]}]]}]}]]}]}],"p":"$@a","v":null,"s":"$b"},"c":"$Qc"},"h":{"r":["$","$4","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#071011"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$10",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"对局档案 · 大师赛档案"}],["$","meta","1",{"name":"description","content":"检索大师赛各赛季的对局、票型和选手记录。"}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$b"}},"a":"$@1b","u":"$@1c","b":"mp9bnAHbb9sW26sWyhvsA"}
-14:null
-b:300
-1c:true
-b:C
-1b:0
-d:"$undefined"
-a:"$undefined"
-1a:"$undefined"
-15:"$undefined"
+c:X
+f:X
+f:C
+10:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$4","c",{"children":[["$","div",null,{"className":"page-wrap uxrOpG_page","children":[["$","header",null,{"className":"uxrOpG_intro","children":[["$","h1",null,{"children":"对局档案"}],["$","p",null,{"children":"按日期、赛季、阶段、版型或选手，找到想看的对局。"}]]}],["$","$11",null,{"fallback":["$","p",null,{"children":"正在载入筛选条件…"}],"children":["$","$L13",null,{}]}]]}],[["$","link","0",{"rel":"stylesheet","href":"/langrensha-site/_next/static/chunks/0yksxl3omw-49.css","precedence":"next"}],["$","script","script-0",{"src":"/langrensha-site/_next/static/chunks/08kequ42ip-ux.js","async":true}]],["$","$L14",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@15"}]}]]}],"p":"$@16","v":null,"s":"$c"}}]]
+d:[["children",{"s":"games","h":96,"d":{"r":["$","$4","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":84,"d":{"r":["$","$L3",null,{"loading":[["$","div","l",{"className":"page-wrap","children":["$","div",null,{"className":"route-loading","role":"status","children":"正在加载页面…"}]}],[],null],"children":["$","$4","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/langrensha-site/_next/static/chunks/06dh3dx4-_qyu.css","precedence":"next"}],["$","script","script-0",{"src":"/langrensha-site/_next/static/chunks/3q-3zzh76n8qz.js","async":true}]],["$","html",null,{"lang":"zh-CN","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳到主要内容"}],["$","$L5",null,{}],["$","main",null,{"id":"main-content","className":"site-main","tabIndex":-1,"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"page-wrap","children":["$","section",null,{"className":"not-found-card","children":[["$","span",null,{"className":"not-found-code","children":"404"}],["$","h1",null,{"children":"没有找到这条档案"}],["$","p",null,{"children":"该对局或选手记录可能尚未发布，或档案链接已经变更。"}],["$","div",null,{"children":[["$","$L9",null,{"className":"button button-primary","href":"/games","children":["浏览对局档案 ",["$","span",null,{"children":"→"}]]}],["$","$L9",null,{"className":"button button-outline","href":"/players","children":["搜索选手 ",["$","span",null,{"children":"→"}]]}]]}]]}]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"footer-inner","children":[["$","nav",null,{"aria-label":"页脚导航","children":[["$","$L9",null,{"href":"/stats","children":"数据说明"}],["$","$L9",null,{"href":"/games","children":"对局档案"}],["$","$L9",null,{"href":"/players","children":"选手索引"}]]}],["$","$La",null,{}]]}]}]]}]}]]}]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$4","h",{"children":[null,["$","$L18",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#071011"}]]}],["$","$L1a",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"对局档案 · 大师赛档案"}],["$","meta","1",{"name":"description","content":"检索大师赛各赛季的对局、票型和选手记录。"}]]}]}],null]}],null]}],"p":"$@1b","v":null,"s":"$c"}},"a":"$@1c","u":"$@1d","b":"haGd3wa9ut4wFrhHhiclF"}
+15:null
+c:300
+1d:true
+c:C
+1c:0
+e:"$undefined"
+b:"$undefined"
+1b:"$undefined"
+16:"$undefined"
