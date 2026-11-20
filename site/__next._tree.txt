@@ -1,4 +1,4 @@
 :HL["/langrensha-site/_next/static/chunks/0n3119oz-wgrt.css","style"]
 :HL["/langrensha-site/_next/static/chunks/024z1_z0_hrko.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"ndghKuMfSVyYI2z__B6V0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"-JD7tJ-SSvuJ1b_bMoZ3_","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
